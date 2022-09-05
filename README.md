@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **100 Days of Code (Python)**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS** and participating in the **Cloud Resume Challenge**
 
 - 📫 How to reach me **daniele.fofana@gmail.com**
 
